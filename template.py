@@ -8,7 +8,6 @@ list_of_files = [
     "src/__init__.py",
     "src/helper.py",
     ".env",
-    "requirements.txt",
     "setup.py",
     "app.py",
     "research/trials.ipynb"
